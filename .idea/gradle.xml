@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task" />
+            <option value="$PROJECT_DIR$/Problems/Avoid NPE" />
+            <option value="$PROJECT_DIR$/Problems/Calculate Square" />
+            <option value="$PROJECT_DIR$/Problems/Calculator with four methods" />
+            <option value="$PROJECT_DIR$/Problems/Call me awesome" />
+            <option value="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces" />
+            <option value="$PROJECT_DIR$/Problems/Count how many times a number occurs" />
+            <option value="$PROJECT_DIR$/Problems/Create cube" />
+            <option value="$PROJECT_DIR$/Problems/Fix the program" />
+            <option value="$PROJECT_DIR$/Problems/Get first and last elements" />
+            <option value="$PROJECT_DIR$/Problems/Print the age" />
+            <option value="$PROJECT_DIR$/Problems/Return empty string when argument is null" />
+            <option value="$PROJECT_DIR$/Problems/Reverse elements" />
+            <option value="$PROJECT_DIR$/Problems/Sorting numbers" />
+            <option value="$PROJECT_DIR$/Problems/Sum of numbers in the range" />
+            <option value="$PROJECT_DIR$/Problems/Symmetric matrix" />
+            <option value="$PROJECT_DIR$/Problems/The longest ascending sequence" />
+            <option value="$PROJECT_DIR$/Problems/The sign of a number" />
+            <option value="$PROJECT_DIR$/Problems/Triples" />
+            <option value="$PROJECT_DIR$/Problems/What's wrong" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
